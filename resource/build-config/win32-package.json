@@ -1,0 +1,10 @@
+{
+	"win": {
+		"title": "mynote.com",
+		"icon": "resource/image/mynote.ico",
+		"nsiTemplate": "resource/build-config/windows-nsi.tpl",
+		"verbosity": 2
+	},
+
+	"description": "mynote.com Desktop Installer"
+}
